@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button plus list 1`] = `
+<ul
+  className="catalog__genres-list"
+>
+  <li
+    className="catalog__genres-item"
+    onClick={[Function]}
+  >
+    <a
+      className="catalog__genres-link"
+      href="#a"
+    >
+      All genres
+    </a>
+  </li>
+  <li
+    className="catalog__genres-item catalog__genres-item--active"
+    onClick={[Function]}
+  >
+    <a
+      className="catalog__genres-link"
+      href="#a"
+    >
+      Comedy
+    </a>
+  </li>
+</ul>
+`;

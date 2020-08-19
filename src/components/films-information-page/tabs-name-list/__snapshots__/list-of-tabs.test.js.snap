@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`button plus list 1`] = `
+<nav
+  className="movie-nav movie-card__nav"
+>
+  <ul
+    className="movie-nav__list"
+  >
+    <li
+      className="movie-nav__item"
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
+    >
+      <a
+        className="movie-nav__link"
+        href="/overview"
+        onClick={[Function]}
+      >
+        Overview
+      </a>
+    </li>
+    <li
+      className="movie-nav__item"
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
+    >
+      <a
+        className="movie-nav__link"
+        href="/details"
+        onClick={[Function]}
+      >
+        Details
+      </a>
+    </li>
+    <li
+      className="movie-nav__item"
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
+    >
+      <a
+        className="movie-nav__link"
+        href="/review"
+        onClick={[Function]}
+      >
+        Review
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
